@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/13 17:23:07.000.799,=C:\Users\josé\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2018/08/13 17:23:07.000.722,=C:\Users\josé\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018/08/13 17:24:06.000.606,=C:\Users\josé\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/08/13 17:24:22.000.652,C:\Users\josé\Documents\Embarcadero\Studio\Projects\SMemoria.cpp=C:\Users\josé\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018/08/13 17:24:22.000.652,C:\Users\josé\Documents\Embarcadero\Studio\Projects\SMemoria.h=C:\Users\josé\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2018/08/13 18:43:13.000.653,C:\Users\josé\Desktop\clase memoria\File1.cpp=C:\Users\josé\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2018/08/13 18:43:24.000.103,C:\Users\josé\Desktop\clase memoria\SMemoria.h=C:\Users\josé\Documents\Embarcadero\Studio\Projects\SMemoria.h</Transaction>
+    <Transaction>2018/08/13 18:43:24.000.103,C:\Users\josé\Desktop\clase memoria\SMemoria.cpp=C:\Users\josé\Documents\Embarcadero\Studio\Projects\SMemoria.cpp</Transaction>
+    <Transaction>2018/08/13 18:43:25.000.219,C:\Users\josé\Desktop\clase memoria\Project1PCH1.h=C:\Users\josé\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018/08/13 18:43:26.000.506,C:\Users\josé\Desktop\clase memoria\Project1.cbproj=C:\Users\josé\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="File1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="SMemoria.cpp"/>
+    <File Path="SMemoria.cpp"/>
+    <File Path="SMemoria.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
